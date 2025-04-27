@@ -1,0 +1,28 @@
+FOOTBALL MATCH IMPACT ANALYSIS SUMMARY
+=====================================
+
+Analysis Date: 2025-04-19 13:40:38
+Road Analyzed: M60
+Total Segments Analyzed: 235
+
+TOP FINDINGS:
+- Highest Pre-Match Flow Increase: M60 CW with 1787.0 vehicles/hour increase (56.9%)
+- Highest Post-Match Flow Increase: M60 CW with 584.0 vehicles/hour increase (14.5%)
+- Highest Pre-Match Speed Reduction: M60 CW with 33.6 mph reduction (44.6%)
+- Highest Post-Match Speed Reduction: M60 CW with 11.6 mph reduction (17.3%)
+
+TEAM COMPARISON:
+- Manchester United's highest impact segment: M60 CW with 1879.5 vehicles/hour increase
+- Manchester City's highest impact segment: M60 CW with 1816.5 vehicles/hour increase
+- Manchester United matches appear to have a higher maximum impact on traffic flow
+
+- Average flow increase (top 5 segments): United: 1762.2 vehicles/hour, City: 1756.3 vehicles/hour
+  (United shows 0.3% higher average impact across top segments)
+
+METHODOLOGY NOTES:
+- Impact is measured as the difference between match periods and comparable baseline periods
+- Pre-match period is defined as 2 hours before kickoff
+- Post-match period is defined as 2 hours after the estimated match end
+- Comparable baseline periods are the same day of week and hour of day on non-match days
+- Analysis accounts for both Manchester United and Manchester City home matches
+- Segments with fewer than 3 match observations were excluded from rankings

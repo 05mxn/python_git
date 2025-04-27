@@ -1,0 +1,21 @@
+segment_id,impact_type,flow_diff,flow_pct,speed_diff,speed_pct,sample_count,clean_name
+M60 anti-clockwise between J19 and J18 mainCarriageway 115018301,post_match_city,514.5,21.77316969953449,3.206249999999997,3.2495502571768786,66,M60 CW
+M60 anti-clockwise within J19 mainCarriageway 115018801,post_match_city,381.0,22.215743440233236,2.5974999999999966,2.43325526932084,65,M60 CW
+M60 J10 clockwise access entrySlipRoad 115021502,post_match_city,330.5,50.45801526717557,0.6362499999999969,1.0557537542520483,62,M60 CW
+M60 J23 anti-clockwise access entrySlipRoad 115028602,post_match_city,205.5,36.76207513416816,6.892499999999984,10.146100908990519,12,M60 CW
+link road from M602 J1 westbound to M60 J12 clockwise entrySlipRoad 115023302,post_match_city,170.0,24.963289280469898,-1.1337500000000063,-1.699329261438163,66,M60 CW
+M60 anti-clockwise between J21 and J20 mainCarriageway 115019302,post_match_city,160.0,9.913258983890955,2.708749999999995,2.4748743718592916,66,M60 CW
+M60 J21 anti-clockwise access exitSlipRoad 200105359,post_match_city,120.0,17.441860465116278,5.427499999999995,8.64251592356687,22,M60 CW
+connector at M60 J21 - A663 roundabout 115009601,post_match_city,78.0,23.14540059347181,1.3649999999999807,1.5573302909298123,40,M60
+M60 J25 clockwise exit exitSlipRoad 115013101,post_match_city,59.5,17.60355029585799,1.7574999999999932,2.684538129606283,60,M60 CW
+connector at M60 J12 - M62 J12 - M602 J1 exitSlipRoad 115023201,post_match_city,15.5,5.5160142348754455,0.6399999999999864,0.8291766534948323,66,M60
+link road from M602 J1 westbound to M60 J12 anti-clockwise exitSlipRoad 115023002,post_match_city,12.5,4.385964912280701,0.7487500000000011,1.0159430122116706,64,M60 CW
+M60 J13 clockwise access entrySlipRoad 115015802,post_match_city,12.0,7.5,-0.8850000000000051,-1.37422360248448,65,M60 CW
+M60 anti-clockwise within J21 mainCarriageway 115019101,post_match_city,7.0,0.5985463873450192,2.5062500000000085,2.293682934083793,66,M60 CW
+M60 J13 anti-clockwise exit exitSlipRoad 115009001,post_match_city,6.0,3.061224489795918,4.75,8.939493742354381,27,M60 CW
+fast slip link at M60 anticlockwise - B5214 junction roundabout 200106652,post_match_city,0.0,,0.43249999999999744,0.7405504901331235,63,M60 CW
+Link road from the M60 anti-clockwise to the M62 J18 roundabout roundabout 115018501,post_match_city,0.0,,6.8675,13.813043696887414,53,M60 CW
+M60 anti-clockwise between J8 and J7 roundabout 200045961,post_match_city,0.0,,0.6000000000000085,0.7114694809237346,17,M60 CW
+roundabout at M60 J18 - M62 J18 - M66 roundabout 115017801,post_match_city,0.0,,6.032499999999999,25.632037391119606,39,M60
+M60 J7 clockwise exit exitSlipRoad 200045973,post_match_city,0.0,,17.356250000000003,33.92460113855702,7,M60 CW
+M60 J20 anti-clockwise access roundabout 200105831,post_match_city,0.0,,-1.4650000000000034,-2.0427371283159665,11,M60 CW

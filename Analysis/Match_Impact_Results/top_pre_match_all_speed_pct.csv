@@ -1,0 +1,21 @@
+segment_id,impact_type,flow_diff,flow_pct,speed_diff,speed_pct,sample_count,clean_name
+M60 J7 clockwise exit exitSlipRoad 200045973,pre_match_all,0.0,,-26.926249999999996,-52.63016443108798,51,M60 CW
+M60 J6 clockwise access entrySlipRoad 200045977,pre_match_all,195.0,60.9375,-33.63249999999999,-44.64540536952842,8,M60 CW
+M60 anti-clockwise between J14 and J13 mainCarriageway 115013801,pre_match_all,889.0,22.070506454816286,-32.807500000000005,-36.60938458963343,132,M60 CW
+M60 anti-clockwise within J14 mainCarriageway 115013902,pre_match_all,549.5,24.97727272727273,-31.348749999999995,-34.58886161145284,132,M60 CW
+M60 J7 anti-clockwise exit for Stretford roundabout 200106393,pre_match_all,0.0,,-8.24125,-34.57625340885253,22,M60 CW
+M60 J10 anti-clockwise exit exitSlipRoad 115023701,pre_match_all,708.5,91.12540192926045,-18.284999999999997,-31.516352824578785,129,M60 CW
+M60 J7 anti-clockwise exit exitSlipRoad 200045964,pre_match_all,0.0,,-16.621250000000003,-30.303099361896084,48,M60 CW
+M60 J10 clockwise exit exitSlipRoad 115013401,pre_match_all,316.5,86.83127572016461,-9.501249999999995,-24.572463065334745,77,M60 CW
+roundabout at M60 J18 - M62 J18 - M66 roundabout 115017001,pre_match_all,0.0,,-7.626249999999999,-24.24784388537816,132,M60
+M60 J7 clockwise access from Stretford roundabout 200106591,pre_match_all,0.0,,-10.3525,-24.19656421643099,23,M60 CW
+M60 anti-clockwise within J13 mainCarriageway 115015601,pre_match_all,817.0,21.22077922077922,-21.526250000000005,-24.10318137920417,132,M60 CW
+M60 J7 clockwise exit for Stretford roundabout 200106560,pre_match_all,0.0,,-10.135000000000005,-23.80924414165738,23,M60 CW
+M60 J17 clockwise exit exitSlipRoad 115009901,pre_match_all,256.0,38.03863298662704,-12.381250000000001,-22.725708385912586,132,M60 CW
+M60 J9 clockwise exit exitSlipRoad 115010601,pre_match_all,277.0,24.887690925426774,-10.420000000000002,-21.760467787407332,131,M60 CW
+M60 clockwise between J8 and J9 mainCarriageway 115021801,pre_match_all,1337.5,51.541425818882466,-18.273749999999993,-18.448550011357607,132,M60 CW
+M60 clockwise within J12 after M602 J1 access mainCarriageway 115024402,pre_match_all,1056.0,30.8141231397724,-15.640000000000015,-17.59280089988753,132,M60 CW
+roundabout at M60 J18 - M62 J18 - M66 roundabout 115017501,pre_match_all,0.0,,-5.401249999999997,-17.573613144623383,132,M60
+M60 clockwise within J12 before M602 J1 access mainCarriageway 115023301,pre_match_all,791.5,30.99060297572435,-15.447500000000005,-16.257959269589016,132,M60 CW
+connector at M60 J8 clockwise roundabout 200045969,pre_match_all,0.0,,-16.32625,-16.196274893975847,132,M60 CW
+M60 J1 clockwise exit exitSlipRoad 115011301,pre_match_all,273.0,49.10071942446043,-6.802500000000002,-15.643325284580895,107,M60 CW

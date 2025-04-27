@@ -1,0 +1,21 @@
+segment_id,impact_type,flow_diff,flow_pct,speed_diff,speed_pct,sample_count,clean_name
+M60 anti-clockwise within J14 mainCarriageway 115013902,pre_match_united,556.0,25.272727272727273,-58.574999999999996,-64.62913414062285,66,M60 CW
+M60 J7 clockwise exit exitSlipRoad 200045973,pre_match_united,0.0,,-32.86125,-64.23074103936085,39,M60 CW
+M60 clockwise within J8 mainCarriageway 200045968,pre_match_united,984.5,41.08074274984352,-60.49000000000001,-58.35142044084311,66,M60 CW
+M60 anti-clockwise between J14 and J13 mainCarriageway 115013801,pre_match_united,849.0,21.077457795431975,-50.140000000000015,-55.95045472298166,66,M60 CW
+M60 J7 anti-clockwise exit exitSlipRoad 200045964,pre_match_united,0.0,,-28.9325,-52.74840474020055,36,M60 CW
+M60 J9 clockwise exit exitSlipRoad 115010601,pre_match_united,365.5,32.83917340521114,-24.811250000000005,-51.8142424558839,66,M60 CW
+connector at M60 J8 clockwise roundabout 200045969,pre_match_united,0.0,,-50.72874999999999,-50.32489273579523,66,M60 CW
+M60 clockwise between J8 and J9 mainCarriageway 115021801,pre_match_united,1383.5,53.314065510597295,-47.39375,-47.84710128467227,66,M60 CW
+M60 J6 clockwise access entrySlipRoad 200045977,pre_match_united,198.0,61.875,-35.64999999999999,-47.323532339959506,7,M60 CW
+M60 J10 anti-clockwise exit exitSlipRoad 115023701,pre_match_united,839.5,107.97427652733118,-26.4025,-45.5078209161029,63,M60 CW
+M60 anti-clockwise within J15 before J14 exit mainCarriageway 115014001,pre_match_united,687.0,28.829206882081408,-36.635,-40.69764212514233,66,M60 CW
+M60 anti-clockwise within J13 mainCarriageway 115015601,pre_match_united,772.5,20.064935064935067,-32.735,-36.65374333421977,66,M60 CW
+M60 clockwise between J6 and J8 mainCarriageway 200045971,pre_match_united,776.0,41.419802508673605,-39.14125,-36.399460628182176,66,M60 CW
+M60 J8 clockwise access entrySlipRoad 115026401,pre_match_united,331.5,139.28571428571428,-25.875000000000007,-35.61596696490022,66,M60 CW
+M60 J7 anti-clockwise exit for Stretford roundabout 200106393,pre_match_united,0.0,,-8.2475,-34.60247535137403,17,M60 CW
+M60 J7 clockwise access from Stretford roundabout 200106591,pre_match_united,0.0,,-13.599999999999998,-31.786841182657472,15,M60 CW
+M60 J7 clockwise exit for Stretford roundabout 200106560,pre_match_united,0.0,,-13.382500000000004,-31.438303870323608,15,M60 CW
+M60 anti-clockwise between J11 and J10 mainCarriageway 115023401,pre_match_united,1424.0,44.99210110584519,-26.349999999999994,-28.417363170665944,66,M60 CW
+M60 J13 anti-clockwise access entrySlipRoad 115015602,pre_match_united,329.5,33.605303416624174,-16.408749999999998,-28.282414788641354,66,M60 CW
+M60 anti-clockwise within J11 mainCarriageway 115022501,pre_match_united,1289.0,49.634193299961495,-26.2325,-27.754853726921652,66,M60 CW

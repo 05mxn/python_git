@@ -1,0 +1,21 @@
+segment_id,impact_type,flow_diff,flow_pct,speed_diff,speed_pct,sample_count,clean_name
+M60 J21 anti-clockwise access exitSlipRoad 200105358,post_match_city,0.0,,-5.238750000000003,-16.256788207913118,12,M60 CW
+M60 J7 anti-clockwise access from Sale roundabout 200106497,post_match_city,0.0,,-3.2012500000000017,-4.446566542234571,3,M60 CW
+M60 J20 anti-clockwise access roundabout 200105831,post_match_city,0.0,,-1.4650000000000034,-2.0427371283159665,11,M60 CW
+M60 clockwise between J10 and J11 mainCarriageway 115022401,post_match_city,-208.0,-6.8771697801289475,-1.321249999999992,-1.399555108309933,66,M60 CW
+M60 J24 clockwise exit exitSlipRoad 115028501,post_match_city,-54.0,-6.695598264104154,-1.2387500000000102,-1.6642595640345414,66,M60 CW
+M60 clockwise within J12 before M602 J1 access mainCarriageway 115023301,post_match_city,-289.5,-11.335160532498042,-1.2224999999999966,-1.2866389517444576,66,M60 CW
+link road from M602 J1 westbound to M60 J12 clockwise entrySlipRoad 115023302,post_match_city,170.0,24.963289280469898,-1.1337500000000063,-1.699329261438163,66,M60 CW
+M60 J13 clockwise access entrySlipRoad 115015802,post_match_city,12.0,7.5,-0.8850000000000051,-1.37422360248448,65,M60 CW
+link road from M60 J12 clockwise to M602 J1 eastbound and M62 J12 westbound exitSlipRoad 115024101,post_match_city,-10.5,-1.5064562410329985,-0.6975000000000051,-0.9385722936150241,66,M60 CW
+M60 clockwise within J11 mainCarriageway 115022801,post_match_city,-110.5,-4.07749077490775,-0.6424999999999983,-0.6588561027507865,66,M60 CW
+M60 clockwise between J11 and J12 mainCarriageway 115023501,post_match_city,-297.0,-8.835341365461847,-0.5012499999999989,-0.5435519288638262,66,M60 CW
+M60 J11 anti-clockwise exit exitSlipRoad 115010701,post_match_city,-281.0,-34.268292682926834,-0.5,-0.9202595131827175,39,M60 CW
+M60 clockwise within J13 mainCarriageway 115015801,post_match_city,-38.5,-0.990863466735298,-0.5,-0.5428881650380022,65,M60 CW
+M60 J21 clockwise exit exitSlipRoad 200056528,post_match_city,0.0,,-0.3899999999999988,-2.4378809188935695,3,M60 CW
+M60 J10 anti-clockwise access entrySlipRoad 115021301,post_match_city,-2.0,-0.5319148936170213,-0.2150000000000034,-0.36013400335008944,63,M60 CW
+M60 J3 anti-clockwise exit roundabout 115005501,post_match_city,-138.0,-20.3240058910162,0.03249999999999886,0.041542837056209196,61,M60 CW
+connector at M60 J8 anti-clockwise roundabout 200045957,post_match_city,0.0,,0.1524999999999892,0.17071054767300722,27,M60 CW
+M60 J22 anti-clockwise exit exitSlipRoad 115020501,post_match_city,-103.0,-13.900134952766532,0.16749999999998977,0.2033630789777087,63,M60 CW
+M60 J13 clockwise exit exitSlipRoad 115009101,post_match_city,-72.5,-7.512953367875648,0.21375000000000455,0.32707241498030615,64,M60 CW
+M60 J3 clockwise access roundabout 115006602,post_match_city,-193.0,-27.10674157303371,0.3149999999999977,0.4552023121387251,59,M60 CW
